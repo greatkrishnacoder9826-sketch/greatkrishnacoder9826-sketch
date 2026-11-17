@@ -5,4 +5,4 @@ AI/ML Developer | Python | Open Source
 
 ## 🏆 GitHub Achievements
 
-![GitHub Achievements](./metrics-achievements.svg)
+![GitHub Achievements](https://raw.githubusercontent.com/greatkrishnacoder9826-sketch/greatkrishnacoder9826-sketch/main/metrics-achievements.svg)
